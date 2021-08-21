@@ -1,6 +1,7 @@
 <h1 align="left">Hey 👋, I'm Aditya [Addy]</h1>
 <h3 align="left">A passionate programmer or developer :sunglasses: , love :heart: to learn new tech's and stacks and :hammer_and_wrench: [build] stuff :call_me_hand:...!</h3>
 
+<h4 align="left">:wrench: Currently working on React Native :100:</h4>
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Addy-exe&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
