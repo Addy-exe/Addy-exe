@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Addy</h1>
 <h3 align="center">A passionate programmer or developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addy-exe&label=Profile%20views&color=0e75b6&style=flat" alt="addy-exe" /> </p>
+<h3>Keep Visiting</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=addy-exe&label=Profile%20views&color=0e75b6&style=flat" alt="addy-exe" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
