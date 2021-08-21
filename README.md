@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Aditya [Addy]</h1>
-<p align="left"><h4 align="left">From :india:</h4><img src="https://komarev.com/ghpvc/?username=addy-exe&label=Profile%20views&color=0e75b6&style=flat" alt="addy-exe" /></p>
+<h4 align="left">From :india:</h4><p align="right"><img src="https://komarev.com/ghpvc/?username=addy-exe&label=Profile%20views&color=0e75b6&style=flat" alt="addy-exe" /></p>
 <h3 align="left">A passionate programmer or developer :sunglasses: , love :heart: to learn new tech's and stacks and :hammer_and_wrench: [build] stuff :call_me_hand:...!</h3>
 
 <h4 align="left">:wrench: Currently working on React Native :100:</h4>
