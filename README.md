@@ -1,10 +1,11 @@
 <h1 align="left">Hey 👋, I'm Aditya [Addy]</h1>
+<h3> 🇮🇳 <a align="left"><img src="https://komarev.com/ghpvc/?username=addy-exe&label=Profile%20views&color=0e75b6&style=flat" alt="addy-exe"/></a></h3>
 
 <h3 align="left">-> A passionate programmer or developer :sunglasses: , love :heart: to learn new tech's and stacks and :hammer_and_wrench: [build] stuff :call_me_hand:...!</h3>
 
-<h4 align="left">* :wrench: Currently working on React Native :100:</h4>
+<h4 align="left">:wrench: Currently working on React Native :100:</h4>
 
-<br/>
+
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=Addy-exe&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -18,6 +19,5 @@
     <a href="https://www.hackerrank.com/adipatil011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adipatil011" height="30" width="40" /></a>
 </p>
 <br/>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=addy-exe&label=Profile%20views&color=0e75b6&style=flat" alt="addy-exe"/></p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-exe)](https://github.com/anuraghazra/github-readme-stats)-->
