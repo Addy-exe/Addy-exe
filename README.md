@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, I'm Aditya [Addy]</h1>
+<h1 align="left">Hey 👋, I'm Aditya</h1>
 
 <h3 align="left">A passionate programmer or developer :sunglasses: , love :heart: to learn new tech's and stacks and :hammer_and_wrench: [build] stuff :call_me_hand:...!</h3>
 
