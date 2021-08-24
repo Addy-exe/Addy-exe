@@ -17,7 +17,7 @@
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=Addy-exe&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=addy-exe&show_icons=true&locale=en&layout=compact" alt="addy-exe" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addy-exe&" alt="addy-exe" /></p>-->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=addy-exe&show_icons=true&locale=en&layout=compact" alt="addy-exe" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addy-exe&" alt="addy-exe" /></p>
 
 
 <!--h3 align="left">Connect with me:</h3><p align="left">
@@ -32,4 +32,4 @@
 <h4>Keep visiting :heart: </h4>
 <a align="left"><img src="https://komarev.com/ghpvc/?username=addy-exe&label=Profile%20views&color=0e75b6&style=flat" alt="addy-exe"/></a>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-exe)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-exe)](https://github.com/anuraghazra/github-readme-stats)
