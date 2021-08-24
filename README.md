@@ -2,9 +2,9 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/patiladi)
-[![Twitter Badge](https://img.shields.io/badge/-hackerrank-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://www.hackerrank.com/adipatil011)
+[![Twitter Badge](https://img.shields.io/badge/-hackerrank-00acee?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adipatil011)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aditya.p_____)
-[![Telegram Badge](https://img.shields.io/badge/-stackoverflow-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://stackoverflow.com/users/14332346)
+[![Telegram Badge](https://img.shields.io/badge/-stackoverflow-0088cc?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14332346)
 
 
 <h3 align="left">A passionate programmer or developer :sunglasses: , love :heart: to learn new tech's and stacks and :hammer_and_wrench: [build] stuff :call_me_hand:...!</h3>
