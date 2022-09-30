@@ -7,9 +7,7 @@ and :hammer_and_wrench: [build] stuff :call_me_hand:...!</h3>
 - 📱 Enthusiastic Mobile developer
 - 🎮 Gamer
 
-<p align=right>
 <img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif"/>
-</p>
 
 <hr>
 
