@@ -3,7 +3,7 @@
 <h3 align="left">A passionate programmer or developer :sunglasses: , love :heart: to learn new tech's and stacks and :hammer_and_wrench: [build] stuff :call_me_hand:...!</h3>
 
 <p align=right>
-<img width=150 src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif"/>
+<img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif"/>
 </p>
 
 <hr>
