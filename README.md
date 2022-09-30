@@ -4,6 +4,8 @@
 
 ![Logo](https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif)
 
+
+<h3 align="left">Connect with me:</h3><p align="left">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/patiladi)
 [![Twitter Badge](https://img.shields.io/badge/-hackerrank-00acee?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adipatil011)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aditya.p_____)
@@ -35,14 +37,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addy-exe&" alt="addy-exe" /></p>
-
-
-<h3 align="left">Connect with me:</h3><p align="left">
-<a href="https://linkedin.com/in/patiladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patiladi" height="30" width="40" /></a>
-&nbsp; <a href="https://stackoverflow.com/users/14332346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14332346" height="30" width="40" /></a>
-&nbsp; <a href="https://instagram.com/aditya.p_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.p_____" height="30" width="40" /></a>
-&nbsp; <a href="https://www.hackerrank.com/adipatil011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adipatil011" height="30" width="40" /></a>
-</p>
 
 <hr>
 
