@@ -6,7 +6,7 @@
 and :hammer_and_wrench: [build] stuff :call_me_hand:...!</h3>
 
 - ⚡ Using MERN Stack for Web development
-- 📱 Enthusiastic Mobile developer
+- 📱 Enthusiastic Mobile Application developer
 - 🎮 Gamer
 
 <hr>
