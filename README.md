@@ -1,13 +1,13 @@
 <h1 align="left">Hey 👋, I'm Aditya</h1>
 
+<p><img align="right" style="white-space:nowrap;"src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" alt="doge_dev" /></p>
+
 <h3 align="left">A passionate programmer or developer :sunglasses: loves learning different technologies & building 
 and :hammer_and_wrench: [build] stuff :call_me_hand:...!</h3>
 
 - ⚡ Using MERN Stack for Web development
 - 📱 Enthusiastic Mobile developer
 - 🎮 Gamer
-
-<img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif"/>
 
 <hr>
 
