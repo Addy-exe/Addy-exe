@@ -2,7 +2,7 @@
 
 <p><img align="right" style="white-space:nowrap;"src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" alt="doge_dev" /></p>
 
-<h3 align="left">A self passionate programmer or developer loves :heart: learning different technologies & building different applications</h3>
+<h3 align="left">A passionate programmer or developer loves :heart: learning different technologies & building different applications</h3>
 
 - ⚡ Using MERN Stack for Web development
 - 📱 Enthusiastic Mobile Application developer
