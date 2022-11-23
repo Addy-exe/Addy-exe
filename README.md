@@ -46,7 +46,6 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=addy-exe&" alt="addy-exe" /></p>
 
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
-<hr>
 
 <!--<h4>Keep visiting :heart: </h4>
 <a align="left"><img src="https://komarev.com/ghpvc/?username=addy-exe&label=Profile%20views&color=0e75b6&style=flat" alt="addy-exe"/></a>-->
