@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋, I'm Aditya</h1>
 
-<p><img align="right" width="40%" height="40%" style="white-space:nowrap;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="dev"/></p>
+<p><img align="right" width="40%" height="35%" style="white-space:nowrap;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="dev"/></p>
 
 <h3 align="left">A passionate programmer or developer loves :heart: learning different technologies & building different applications</h3>
 
