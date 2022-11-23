@@ -43,7 +43,7 @@
 ### ⚙️ My Github Stats :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Addy-exe&count_private=true&show_icons=true&theme=algolia&hide_rank=false" alt="stats"/></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=addy-exe&" alt="addy-exe" /></p>
+<p><img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=addy-exe&" alt="addy-exe" /></p>
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-exe)](https://github.com/anuraghazra/github-readme-stats)
