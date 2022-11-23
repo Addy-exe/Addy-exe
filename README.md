@@ -5,7 +5,9 @@
 <h3 align="left">A passionate programmer or developer loves :heart: learning different technologies & building different applications</h3>
 
 - ⚡ Using MERN Stack for Web development
+
 - 📱 Enthusiastic Mobile Application developer
+
 - 🎮 Gamer
 
 <hr>
