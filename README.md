@@ -43,10 +43,12 @@
 ### ⚙️ My Github Stats :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Addy-exe&count_private=true&show_icons=true&theme=algolia&hide_rank=false" alt="stats"/></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=addy-exe&" alt="addy-exe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addy-exe&" alt="addy-exe" /></p>
 
-<!--(https://github.com/anuraghazra/github-readme-stats)-->
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-exe)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<h4>Keep visiting :heart: </h4>
 <a align="left"><img src="https://komarev.com/ghpvc/?username=addy-exe&label=Profile%20views&color=0e75b6&style=flat" alt="addy-exe"/></a>-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-exe)](https://github.com/anuraghazra/github-readme-stats)
+
