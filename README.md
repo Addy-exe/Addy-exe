@@ -42,7 +42,7 @@
 
 ### ⚙️ My Github Stats :
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=Addy-exe&count_private=true&show_icons=true&theme=algolia&hide_rank=false)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=Addy-exe&count_private=true&show_icons=true&theme=algolia&hide_rank=false)
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=addy-exe&" alt="addy-exe" /></p>
 
 
