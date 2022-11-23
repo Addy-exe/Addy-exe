@@ -4,12 +4,11 @@
 
 <h3 align="left">A passionate programmer or developer loves :heart: learning different technologies & building different applications</h3>
 
+- 📌 Currently Learning React Native & Typescript
 
 - ⚡ Using MERN Stack for Web development
 
 - 📱 Enthusiastic Mobile Application developer
-
-- 🎮 Gamer
 
 <hr>
 
@@ -33,9 +32,7 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;  
-<!--a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;--> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
-<!--a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;-->
 </p>
 
 <hr>
@@ -45,8 +42,4 @@
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Addy-exe&count_private=true&show_icons=true&theme=algolia&hide_rank=false" alt="stats"/></p>
 <p><img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=addy-exe&" alt="addy-exe" /></p>
 
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-exe)](https://github.com/anuraghazra/github-readme-stats)
-<h4>Keep visiting :heart: </h4>
-<a align="left"><img src="https://komarev.com/ghpvc/?username=addy-exe&label=Profile%20views&color=0e75b6&style=flat" alt="addy-exe"/></a>-->
 
