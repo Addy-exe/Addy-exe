@@ -4,11 +4,13 @@
 
 <h3 align="left">A passionate programmer or developer loves :heart: learning different technologies & building different applications</h3>
 
+
 - 📌 Currently Learning React Native & Typescript
 
 - ⚡ Using MERN Stack for Web development
 
 - 📱 Enthusiastic Mobile Application developer
+
 
 <hr>
 
