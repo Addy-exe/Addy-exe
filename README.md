@@ -2,7 +2,7 @@
 
 <p><img align="right" width="35%" height="30%" style="white-space:nowrap;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="dev"/></p>
 
-### Myself, Aditya, a techie, loves building Full Stack Applications. A passion for creating both web and mobile applications with an eye for detail and user experience. Constantly exploring and learning different technologies.
+#### Myself, Aditya, a techie, loves building Full Stack Applications. A passion for creating both web and mobile applications with an eye for detail and user experience. Constantly exploring and learning different technologies.
 
 
 - 📌 Currently Learning React Native & Typescript
