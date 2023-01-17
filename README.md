@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats:
 <p>
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Addy-exe&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="stats"/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Addy-exe&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="stats"/>
 </p>
 
 <p>
