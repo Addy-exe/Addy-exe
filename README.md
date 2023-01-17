@@ -36,9 +36,9 @@
 <p>
 <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Addy-exe&theme=nightowl&hide_border=false" alt="stats"/>
 </p>
-
+<br/>
 <p>
-<img align="" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-exe&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-exe&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
 
