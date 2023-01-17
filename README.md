@@ -14,7 +14,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3><p align="left">
+<h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/patiladi)
 [![Twitter Badge](https://img.shields.io/badge/-hackerrank-00acee?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adipatil011)
