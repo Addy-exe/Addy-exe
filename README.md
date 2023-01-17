@@ -11,16 +11,6 @@
 
 - 📱 Enthusiastic Mobile Application developer
 
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/patiladi)
-[![Twitter Badge](https://img.shields.io/badge/-hackerrank-00acee?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adipatil011)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aditya.p_____)
-[![Telegram Badge](https://img.shields.io/badge/-stackoverflow-0088cc?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14332346)
-
 <hr>
 
 ## 💻 Tech Stack:
@@ -32,13 +22,21 @@
 <p>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Addy-exe&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="stats"/>
 </p>
+
 <p>
 <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Addy-exe&theme=nightowl&hide_border=false" alt="stats"/>
 </p>
-
 
 <p>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-exe&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
+<hr>
+
+<h3 align="left">Connect with me:</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/patiladi)
+[![Twitter Badge](https://img.shields.io/badge/-hackerrank-00acee?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adipatil011)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aditya.p_____)
+[![Telegram Badge](https://img.shields.io/badge/-stackoverflow-0088cc?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14332346)
 
